@@ -14,7 +14,7 @@
 <h3>Crafting Spawn</h3>
 
 <a href="https://www.curseforge.com/minecraft/mc-mods/crafting-spawn">
-	<img src="https://img.shields.io/static/v1?label=Crafting Spawn&message=0.4.1&color=blue"/>
+	<img src="https://img.shields.io/static/v1?label=Crafting-Spawn&message=0.4.1&color=blue"/>
 </a>
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=trainerlord&repo=Crafting-Spawn)
