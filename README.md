@@ -1,7 +1,7 @@
 <h1>💻Trainerlord - Development💻</h1>
-<h3><a href="trainerlordDevelopemnt.uk.to">Website</a></h3>
+<h3><a href="https://trainerlordDevelopemnt.uk.to">Website</a></h3>
 
-<h2>Notable Repos<h2>
+<h2>Notable Repos</h2>
 <h3>World System</h3>
 
 <a href="https://www.spigotmc.org/resources/worldsystem-%E2%97%8F-the-one-world-per-player-solution-%E2%97%8F-gui-%E2%97%8F-highly-configurable-%E2%97%8F-1-8-1-16.49756/">
